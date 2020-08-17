@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - I'm aspiring 🔭️ Fullstack Web Developer currently learning 🌱 **ReactJs**.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 ## 🛠️ **Languages & Tools:**
-![React](<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>)
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
