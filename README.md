@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 </br>
 
 ## &nbsp; &nbsp; **About Me**
@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 - I'm aspiring 🔭️ Fullstack Web Developer currently learning 🌱 **ReactJs**.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 ## 🛠️ **Languages & Tools:**
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
+
+
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/merge-git.png"/> <img src="https://img.icons8.com/dusk/64/000000/linux.png"/> <img src="https://img.icons8.com/windows/32/000000/figma.png"/>
+
+- 📫 How to reach me: ...
+[<img src="https://img.icons8.com/cute-clipart/32/000000/facebook-new.png"/>](https://web.facebook.com/soethiha) [<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>](https://twitter.com)
+
+[![Soe Thiha's github stats](https://github-readme-stats.vercel.app/api?username=yul1ux)](https://github.com/yul1ux/github-readme-stats)
