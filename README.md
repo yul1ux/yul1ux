@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## &nbsp; &nbsp; **About Me**
 - 🌱 I’m currently learning Mechanical Engineering
-- I'm aspiring 🔭️ Fullstack Web Developer currently learning 🌱 **ReactJs**.
+- I'm aspiring 🔭️ Backend Developer currently learning 🌱 **Nodjs**.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 ## 🛠️ **Languages & Tools:**
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
