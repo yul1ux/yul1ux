@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soe Thiha</h1>
-<h3 align="center">A passionate backend developer from mandalay</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yul1ux" alt="yul1ux" /></a> </p>
+<h3 align="center">A passionate backend developer from Mandalay</h3>
 
 - 🔭 I’m currently working on [emdict](https://github.com/yul1ux/emdict)
 
