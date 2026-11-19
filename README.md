@@ -1,23 +1,136 @@
-<h1 align="center">Hi 👋, I'm Soe Thiha</h1>
-<h3 align="center">A passionate backend developer from Mandalay</h3>
 
-- 🔭 I’m currently working on [emdict](https://github.com/yul1ux/emdict)
+# Soe Thiha 
 
-- 🌱 I’m currently learning **nodejs**
+### Cloud Engineer · AWS · Linux · Infrastructure Automation
 
-- 👯 I’m looking to collaborate on **linkinmyanmar**
+I build secure, reliable, and scalable infrastructure.
 
-- 👨‍💻 All of my projects are available at [https://thiha.me](https://thiha.me)
+I'm a Cloud Engineer with a background in Network Operations, experienced in supporting FTTH ISP infrastructure and troubleshooting real-world networking environments.
 
-- 📫 How to reach me **soethiha5125@gmail.com**
+Currently focused on building modern cloud infrastructure with **AWS, Terraform, Linux, Docker, and Kubernetes** — bringing networking fundamentals and operational experience into cloud engineering.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soe-thiha-b1685b1b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soe-thiha-b1685b1b2" height="30" width="40" /></a>
+[🌐 Portfolio](https://yuliux.pages.dev) · [💻 GitHub](https://github.com/yul1ux)
+
+---
+
+## `$ whoami`
+
+```bash
+name="Soe Thiha"
+role="Cloud Engineer"
+background="Network Operations / FTTH ISP"
+location="Myanmar"
+
+focus=(
+  "Cloud Infrastructure"
+  "Infrastructure as Code"
+  "Linux Systems"
+  "DevOps & Automation"
+  "Network Architecture"
+)
+```
+
+I believe good infrastructure should be **resilient by design, automated by default, and understandable by everyone who operates it.**
+
+My journey started in network operations, where reliability, troubleshooting, and system availability are part of everyday work. I'm applying that foundation to cloud-native infrastructure and automation.
+
+---
+
+## `$ tech-stack`
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Automation & Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Networking & Systems**
+
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logoColor=white)
+
+---
+
+## `$ featured-work`
+
+### 01. Multi-Region Kubernetes & Zero-Downtime Migration
+
+Designing resilient multi-region infrastructure with automated traffic migration and failover.
+
+**Stack:** AWS EKS · Terraform · ArgoCD · Route 53 · Cilium
+
+### 02. Immutable GitOps & Zero-Trust Infrastructure
+
+Infrastructure automation with policy enforcement, secure access management, and automated configuration drift correction.
+
+**Stack:** OpenTofu · OPA Gatekeeper · HashiCorp Vault · Teleport
+
+### 03. Unified Observability Platform
+
+Centralized telemetry architecture for distributed systems, focusing on monitoring, alerting, and operational visibility.
+
+**Stack:** Prometheus · Thanos · Grafana · OpenTelemetry · Vector
+
+Explore architecture and technical details on my [portfolio website](https://yuliux.pages.dev).
+
+---
+
+## `$ experience`
+
+**Network Operations Center Engineer**  
+Maharnet — FTTH ISP | 2025 – Present
+
+- Monitor and support ISP network infrastructure and customer connectivity.
+- Troubleshoot network incidents and infrastructure issues.
+- Work with routing, switching, MikroTik devices, and PPPoE authentication.
+- Support monitoring and operational reliability.
+- Develop cloud engineering and infrastructure automation skills.
+
+---
+
+## `$ certifications`
+
+- **AWS Certified Solutions Architect – Associate** — AWS SAA-C03 (2026)
+- **Red Hat Certified System Administrator** — RHCSA (2025)
+- **CS50's Introduction to Computer Science** — Harvard University (2025)
+
+---
+
+## `$ current-focus`
+
+- Building practical AWS infrastructure projects.
+- Improving Infrastructure as Code workflows with Terraform.
+- Exploring Kubernetes and container orchestration.
+- Automating operational tasks with Python and Bash.
+- Learning cloud security, observability, and reliable system design.
+
+---
+
+## `$ connect`
+
+Interested in cloud infrastructure, DevOps, automation, networking, or collaborating on practical engineering projects?
+
+Let's connect.
+
+- 🌐 Portfolio: [yuliux.pages.dev](https://yuliux.pages.dev)
+- 💻 GitHub: [github.com/yul1ux](https://github.com/yul1ux)
+
+---
+
+<p align="center">
+  <i>"Quiet systems. Resilient by design."</i>
+  <br/>
+  <sub>Building infrastructure that works, scales, and lasts.</sub>
 </p>
-<div style="display:flex;align-items: center;justify-content: flex-start;flex-wrap: wrap;">
-<h3 style="width:100%">Languages and Tools:</h3>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"> </a> 
-</div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yul1ux&show_icons=true&locale=en" alt="yul1ux" /></p>
